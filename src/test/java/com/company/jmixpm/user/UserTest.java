@@ -21,6 +21,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 @ExtendWith(AuthenticatedAsAdmin.class)
 public class UserTest {
 
+
     @Autowired
     DataManager dataManager;
 
